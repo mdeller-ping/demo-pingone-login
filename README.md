@@ -1,6 +1,6 @@
 # demo-pingone-login
 
-Starts up https://github.com/pingidentity/pingone-sample-login
+Starts up https://github.com/pingidentity/pingone-sample-login.  You can follow the instructions over there, m'kay.  But basically, once this thing is running, edit the auth.js in the /js directory and specify your PingOne particulars.
 
 ## build the image from source and run as a container locally
 
